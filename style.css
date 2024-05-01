@@ -1,0 +1,135 @@
+.body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.main {
+    margin-top: 60px;
+
+}
+
+#home {
+    padding: 50px 0
+}
+
+
+#services,
+#aboutUs,
+#contact {
+    background-image: url("/img/black-abstract-textured-grunge-web-background-vector.jpg");
+
+    background-color: #343a40;
+    color: #fff;
+    padding: 50px 0;
+}
+
+#home {
+    background-image: url("/img/black-abstract-textured-grunge-web-background-vector.jpg");
+    color: aliceblue;
+}
+
+#footer {
+    background-color: #f8d7da;
+    padding: 30px 0;
+}
+
+#allNavBar {
+    background-color: #343a40;
+    border-bottom: 2px solid #212529;
+    z-index: 3;
+    position: sticky;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0%;
+
+}
+
+.navbar-nav .nav-link {
+    color: #fff;
+}
+
+#homeImg {
+    display: flex;
+    height: 70px;
+
+}
+
+.container-fluid {
+    background-color: gray;
+}
+
+.nav-item,
+a {
+    color: gray;
+    display: flex;
+    text-decoration: none;
+}
+
+.nav-item a:hover {
+    padding: 5px 10px;
+    background: white;
+    color: black;
+    border-radius: 15px;
+}
+
+.regularText {
+    font-size: 25px;
+    text-align: center;
+}
+
+.subTitle {
+    font-size: 40px;
+    text-align: center;
+}
+
+.c-item {
+    height: 500px;
+}
+
+#textCarousel,
+.p {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 5px;
+
+
+}
+
+.instagram {
+    height: 40px;
+}
+
+.tiktok {
+    height: 40px;
+}
+
+.c-img {
+    height: auto;
+    object-fit: cover;
+    filter: brightness(0.6);
+}
+
+.cards,
+.card {
+    align-items: center;
+    text-align: center;
+
+    align-items: start;
+}
+
+.social-icons {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.social-icons li {
+    margin: 0 10px;
+}
+
+.social-icons a {
+    color: #343a40;
+}
