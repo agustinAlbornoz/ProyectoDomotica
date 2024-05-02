@@ -16,7 +16,7 @@
 #services,
 #aboutUs,
 #contact {
-    background-image: url("/img/black-abstract-textured-grunge-web-background-vector.jpg");
+    background-image: url("img/black-abstract-textured-grunge-web-background-vector.jpg");
 
     background-color: #343a40;
     color: #fff;
@@ -24,7 +24,7 @@
 }
 
 #home {
-    background-image: url("/img/black-abstract-textured-grunge-web-background-vector.jpg");
+    background-image: url("img/black-abstract-textured-grunge-web-background-vector.jpg");
     color: aliceblue;
 }
 
